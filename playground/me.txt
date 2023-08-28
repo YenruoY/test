@@ -1,5 +1,0 @@
-{{#user}}
-Name: Prantik
-Skills: C, Python, Linux, 
-Email: prantik724@gmail.com
-{{/user}}
